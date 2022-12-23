@@ -1,0 +1,8 @@
+.env
+__pycache__
+*.pyc
+*.db
+*.csv
+.vscode
+query.sql
+cluster_template.json
